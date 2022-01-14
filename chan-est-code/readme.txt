@@ -1,4 +1,4 @@
-The code for "Efficient RIS Channel Estimation and Projection Using Zadoff-Chu Sequences"
+The code for "Channel Estimation and Projection for RIS-assisted MIMO Using Zadoff-Chu Sequences"
 
 The relationship between main function and figures in paper:
 Fig3: main_H_CRB.m
